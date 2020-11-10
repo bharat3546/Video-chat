@@ -22,13 +22,15 @@ TWILIO_API_SECRET=TWILIO_API_SECRET # Your API Key SECRET
 ```
 node app.js
 ```
-```
-npm install
-```
+
 
 ### Clone the repository to your system by running the command:
 ```
 git clone https://github.com/bharat3546/Video-chat.git
+```
+###Download node modules
+```
+npm install
 ```
 ### Compiles and hot-reloads for development
 npm run serve
